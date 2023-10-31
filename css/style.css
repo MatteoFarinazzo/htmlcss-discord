@@ -90,6 +90,13 @@ footer{
 .bg-blue{
     background-color:#255EE9;
 }
+
+.bord{
+    border-top: solid 1px #7289DA ;
+    
+}
+
+
 #language{
     display:flex;
     gap:2px;
