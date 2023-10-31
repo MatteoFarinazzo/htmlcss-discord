@@ -46,12 +46,25 @@ footer{
     justify-content: center;
 }
 
+.blue-text{
+    color:#7289DA
+}
+
 .text-bot{
     color:white;
+
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .icons{
     padding-right: 10px;
+}
+
+.bot-link{
+    text-decoration: none;
+    color:white;
 }
 
 #language{
@@ -68,4 +81,8 @@ footer{
 
 #flag{
     width: 20px;
+}
+
+#lang{
+    font-size: smaller;
 }
