@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+footer{
+    background-color: #23272A;
+}
+
 .text-head{
     text-decoration: none;
     color: white;
@@ -37,7 +46,26 @@
     justify-content: center;
 }
 
+.text-bot{
+    color:white;
+}
+
+.icons{
+    padding-right: 10px;
+}
+
+#language{
+    display:flex;
+    gap:2px;
+    align-items: center;
+    text-align: center;
+}
+
 #but-col{
     background-color: #7289DA;
     color:white;
+}
+
+#flag{
+    width: 20px;
 }
