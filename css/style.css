@@ -67,6 +67,29 @@ footer{
     color:white;
 }
 
+.unione{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.stelle{
+    width: 30%;
+
+    position: absolute;
+    right: 440px;
+    bottom:0;
+}
+
+.scritta-stel{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.bg-blue{
+    background-color:#255EE9;
+}
 #language{
     display:flex;
     gap:2px;
