@@ -77,7 +77,7 @@ footer{
     width: 30%;
 
     position: absolute;
-    right: 440px;
+    right: 35%;
     bottom:0;
 }
 
@@ -93,8 +93,16 @@ footer{
 
 .bord{
     border-top: solid 1px #7289DA ;
-    
+    width: 80%;
+    margin: 0 auto;
 }
+
+
+.but-col{
+    background-color: #7289DA;
+    color:white;
+}
+
 
 
 #language{
@@ -102,11 +110,6 @@ footer{
     gap:2px;
     align-items: center;
     text-align: center;
-}
-
-#but-col{
-    background-color: #7289DA;
-    color:white;
 }
 
 #flag{
